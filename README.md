@@ -1,3 +1,3 @@
 [abv.bg](https://www.abv.bg)\
-![AnVIL Image](https://www.abv.bg/i/abv-logo.svg "ABV Portal Image!")\
+![ABV Image](https://www.abv.bg/i/abv-logo.svg)\
 [Go to next page](somefile.html)
