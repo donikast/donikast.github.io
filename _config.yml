@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: Technical university - Varna
-markdown: kramdown
+markdown: GFM
 #description: July 2017
 #baseurl: /Institute-Materials-2017
