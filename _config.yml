@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal@v0.2.0
 title: NEH Institute materials
 description: July 2017
 baseurl: /Institute-Materials-2017
