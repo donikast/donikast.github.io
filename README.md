@@ -1,4 +1,12 @@
-
+---
+title: Help Center
+navigation:
+  - section: Help Center
+  - document: second
+    label: Overview
+  - document: second
+    label: Data Sources
+---
 
 # Some heading level 1
 
