@@ -15,7 +15,7 @@
 
 ![ABV Image](https://www.abv.bg/i/abv-logo.svg)
 
-[Go to next page](somefile.html)
+[Go to next page](second.md)
 
 1. First
 2. Second
